@@ -1,5 +1,5 @@
 <div>
-  <h1>Saludos 👋, soy Ingrid y estoy encantado/a de que hayas visitado mi perfil de GitHub. </h1>
+  <h1>Saludos 👋, soy Ingrid y estoy encantada de que hayas visitado mi perfil de GitHub. </h1>
 <hr></hr>
 <h2>Sobre mi...</h2>
   <h3>Soy desarrollador Full Stack graduada del Bootcamp de "Soy Henry", especializada en el desarrollo de aplicaciones tanto en Front-end como en Back-end. Con conocimientos en metodologías ágiles, GIT y SCRUM.
