@@ -1,18 +1,41 @@
 <div>
   <h1>Saludos 👋, soy Ingrid y estoy encantada de que hayas visitado mi perfil de GitHub. </h1>
 <hr></hr>
-<h2>Sobre mi...</h2>
-  <h3>Soy desarrollador Full Stack graduada del Bootcamp de "Soy Henry", especializada en el desarrollo de aplicaciones tanto en Front-end como en Back-end. Con conocimientos en metodologías ágiles, GIT y SCRUM.
 
-He trabajado en proyectos de desarrollo de Front-end y Back-end utilizando tecnologías como JavaScript, React, Redux, Express, Node JS, HTML, CSS, Postgresql y Sequelize. Además, destaco por mi habilidad para gestionar eficientemente el tiempo.
+<h2>✨ ¿Quién soy? </h2>
+<hr></hr>
+  <h3>Soy Full Stack Developer graduada del Bootcamp de "Soy Henry", especializada en el desarrollo de aplicaciones tanto en Front-end como en Back-end.
+  Motivada por mi interés en adquirir nuevos conocimientos y por el afán de seguir incursionando en nuevas disciplinas, me interesé por la programación. Creo que esta disciplina ofrece muchas posibilidades y puedo utilizarla como complemento para mi formación universitaria.<h3>
+  
+<h2>✨ ¿Qué hago? </h2>  
+<hr></hr> 
+<h3>Actualmente trabajo mejorando los proyectos realizados en el Bootcamp y en el proceso de una pagina para una empresa real.</h3>   
+  
+<h2>✨ ¿A dónde me dirijo? </h2>  
+<hr></hr>   
+<h3>
+  
+Mi objetivo principal es brindarle a las empresas toda mi capacidad para resolver inconvenientes y agregarle valor con nuevas y buenas ideas.
+  
+Estoy altamente motivada e interesada en incursionar en el mundo laboral de los desarrolladores Full Stack, ya que considero que esta área me ofrece grandes oportunidades de crecimiento y aprendizaje en un entorno tecnológico en constante evolución.
 
-Desde que tengo uso de razón, he buscado oportunidades para ampliar mi conocimiento en distintas áreas. He estudiado música, soy preceptora de nivel secundario y también me desempeño como peluquera canina. Actualmente, estoy cursando la carrera de Ingeniería Industrial.
+El camino transitado en el bootcamp no ha sido fácil y aún queda mucho por recorrer, pero estoy plenamente convencida de que la constancia y la perseverancia son la clave para lograr cualquier meta. Por eso, seguiré aprendiendo y explorando el fascinante mundo de la tecnología de la información (IT).</h3>
+  
+<h2>✨ ¿Qué tecnologías uso? </h2>  
+<hr></hr>   
+<h3>  
+  
+♦ Javascript
+♦ React.js
+♦ Express.js
+♦ Node.js
+♦ PostgreSQL
+♦ Sequelize
+♦ HTML
+♦ CSS
 
-Motivada por mi interés en adquirir nuevos conocimientos y por el afán de seguir incursionando en nuevas disciplinas, me interesé por la programación. Creo que esta disciplina ofrece muchas posibilidades y puedo utilizarla como complemento para mi formación universitaria.
-
-El camino transitado en el bootcamp no ha sido fácil y aún queda mucho por recorrer, pero estoy plenamente convencida de que la constancia y la perseverancia son la clave para lograr cualquier meta. Por eso, seguiré aprendiendo y explorando el fascinante mundo de la tecnología de la información (IT).
-
-Estoy altamente motivada e interesada en incursionar en el mundo laboral de los desarrolladores Full Stack, ya que considero que esta área me ofrece grandes oportunidades de crecimiento y aprendizaje en un entorno tecnológico en constante evolución.</h3>
+Además, poseo conocimineto de las herramientas: Git, GitHub, Trello, Slack y Scrum como metodología ágil.  </h3>
+  
 
 </div>
  
