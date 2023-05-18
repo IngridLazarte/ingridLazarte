@@ -5,11 +5,11 @@
 
 - 🌱 **Actualmente trabajo mejorando los proyectos realizados en el Bootcamp y en el proceso de una pagina para un predio deportivo.**
 
-- 🎯 **Mi objetivo principal es brindarle a las empresas toda mi capacidad para resolver inconvenientes y agregarle valor con nuevas y buenas ideas. Estoy altamente motivada e interesada en incursionar en el mundo laboral de los desarrolladores Full Stack, ya que considero que esta área me ofrece grandes oportunidades de crecimiento y aprendizaje en un entorno tecnológico en constante evolución. El camino transitado en el bootcamp no ha sido fácil y aún queda mucho por recorrer, pero estoy totalmente convencida de que la constancia y la perseverancia son la clave para lograr cualquier meta. Por eso, seguiré aprendiendo y explorando el fascinante mundo de la tecnología de la información (IT).** -
+- 🎯 **Mi objetivo principal es brindarle a las empresas toda mi capacidad para resolver inconvenientes y agregarle valor con nuevas y buenas ideas. Estoy altamente motivada e interesada en incursionar en el mundo laboral de los desarrolladores Full Stack, ya que considero que esta área me ofrece grandes oportunidades de crecimiento y aprendizaje en un entorno tecnológico en constante evolución. El camino transitado en el bootcamp no ha sido fácil y aún queda mucho por recorrer, pero estoy totalmente convencida de que la constancia y la perseverancia son la clave para lograr cualquier meta. Por eso, seguiré aprendiendo y explorando el fascinante mundo de la tecnología de la información (IT).** 
 
 📫 Cómo contactarme **ingridlazartev@gmail.com**
 
-<h3 align="left">Conéctate conmigo:< /h3>
+<h3 align="left">Conéctate conmigo:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ingrid-victoria-lazarte-8697081b2/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= "https://www.linkedin.com/en/ingrid-victoria-lazarte-8697081b2/" height="30" width="40" /></a>
 </p>
